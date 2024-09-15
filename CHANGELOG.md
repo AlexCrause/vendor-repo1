@@ -3,4 +3,4 @@ some test
 some test
 
 
-gb
+gb GB
